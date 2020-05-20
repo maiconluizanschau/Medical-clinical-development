@@ -1,2 +1,2 @@
-# Medical-clinical-development
-Study and development of medical clinic software for patient management
+# Dental-clinic-development
+Study and development of dental clinic software for patient management
